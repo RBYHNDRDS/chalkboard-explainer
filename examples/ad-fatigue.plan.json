@@ -1,0 +1,118 @@
+{
+  "title": "Ad fatigue",
+  "duration": 25,
+  "model": "wan3_0",
+  "elements": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "type": "text",
+      "content": "AD FATIGUE?",
+      "position": "top centre, large"
+    },
+    {
+      "start": 2.4,
+      "end": 5.0,
+      "type": "doodle",
+      "content": "a phone with a sleepy face on its screen",
+      "position": "upper left, under the title"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "type": "text",
+      "content": "MORE BUDGET",
+      "position": "left, under the phone"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "type": "mark",
+      "content": "a big X of two thick lines over MORE BUDGET",
+      "position": "over MORE BUDGET"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "type": "text",
+      "content": "1. NEW HOOK",
+      "position": "right column, first line"
+    },
+    {
+      "start": 10.0,
+      "end": 11.4,
+      "type": "icon",
+      "content": "a small fish hook",
+      "position": "right of NEW HOOK"
+    },
+    {
+      "start": 11.4,
+      "end": 13.4,
+      "type": "text",
+      "content": "2. NEW FACE",
+      "position": "right column, second line"
+    },
+    {
+      "start": 13.4,
+      "end": 14.8,
+      "type": "icon",
+      "content": "a small smiley face",
+      "position": "right of NEW FACE"
+    },
+    {
+      "start": 14.8,
+      "end": 17.0,
+      "type": "text",
+      "content": "3. NEW FORMAT",
+      "position": "right column, third line"
+    },
+    {
+      "start": 17.0,
+      "end": 18.4,
+      "type": "icon",
+      "content": "a small film frame",
+      "position": "right of NEW FORMAT"
+    },
+    {
+      "start": 18.4,
+      "end": 22.0,
+      "type": "text",
+      "content": "REFRESH / WEEKLY",
+      "position": "bottom centre, large, two lines"
+    },
+    {
+      "start": 22.0,
+      "end": 23.6,
+      "type": "mark",
+      "content": "a double underline under REFRESH WEEKLY",
+      "position": "under REFRESH WEEKLY"
+    }
+  ],
+  "dialogue": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Okay, so your ads stopped working. Most people think it's a budget problem."
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Honestly? It usually isn't."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "They've just seen it too often."
+    },
+    {
+      "start": 10.0,
+      "end": 18.4,
+      "text": "So give it a new hook, a new face, or a completely new format."
+    },
+    {
+      "start": 18.4,
+      "end": 25.0,
+      "text": "And don't wait until it dies. Refresh every week."
+    }
+  ]
+}

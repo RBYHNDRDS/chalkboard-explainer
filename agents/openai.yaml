@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chalkboard Explainer"
+  short_description: "Plan and prompt chalkboard explainer videos where the chalk looks really handwritten"
+  default_prompt: "Use $chalkboard-explainer to plan a 25-second chalkboard explainer for my topic, with a drawing timeline and a prompt for my video model."

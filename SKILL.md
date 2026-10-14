@@ -65,7 +65,7 @@ Fixed layout that reads in one second on a phone:
 Rules:
 
 - **White chalk only.** Meaning comes from crossing out, circling, arrows and underlining, not colour.
-- **Max 3 words per line, capitals.** A point may wrap to two lines ("EAT A / LITTLE LESS").
+- **Max 3 words per line, capitals.** Keep each point on one line where the board has room; in testing, the second line of a wrapped point tended to jump in at once instead of being written.
 - **3 list points for 20 to 25 s, at most 4 for 30 s.** With more, models start dropping a point and skipping a number. Single-digit list numbers are fine. No other numbers, prices, percentages, logos or brand names on the board.
 - **Icons are line drawings of one object**, 1 to 2 seconds each. Describe each icon so it cannot be confused with another ("a fish hook with a barb, not a light bulb"); models swap similar small icons.
 - **Cross out with a big X of two thick lines**, not a single thin stroke. A thin line disappears on a phone screen.

@@ -4,7 +4,13 @@ A portable AI skill for planning and prompting chalkboard explainer videos: one 
 
 It looks like a lesson, not an ad, and the chalk looks handwritten.
 
-A demo video made with the bundled example plan will be added here.
+<p align="center">
+  <a href="assets/demo.mp4?raw=1">
+    <img src="assets/demo.gif" alt="A forearm writes a chalkboard explainer about ad fatigue in white chalk: a question, a crossed-out myth, a numbered list with icons and an underlined takeaway" width="300" />
+  </a>
+</p>
+
+<p align="center"><sub>Generated from <code>examples/ad-fatigue.prompt.txt</code> with Wan 3.0 in one 25-second take, unedited. Click for the MP4 with sound.</sub></p>
 
 ## Why it is built this way
 
@@ -29,7 +35,8 @@ What matters is not writing slowly but writing where the hand is: every new stro
 - `references/models.md`: clip lengths, limits and what we learned in testing.
 - `scripts/check_plan.py`: drawing-timeline and prompt-length checker.
 - `examples/ad-fatigue.plan.json`: an example drawing timeline that passes the checker.
-- `examples/ad-fatigue.prompt.txt`: the matching ready-to-paste prompt.
+- `examples/ad-fatigue.prompt.txt`: the exact prompt behind the demo.
+- `assets/demo.gif`, `assets/demo.mp4`: the demo above.
 - `agents/openai.yaml`: optional metadata for OpenAI-compatible skill hosts.
 
 ## Requirements
